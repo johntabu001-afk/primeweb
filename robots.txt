@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lansengroup.org/sitemap.xml
